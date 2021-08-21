@@ -1,0 +1,5 @@
+2021-08-22 01:01:16,318 INFO [main] c.s.c.LoggerTest [StartupInfoLogger.java:55] Starting LoggerTest using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 23444 (started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 01:01:16,320 INFO [main] c.s.c.LoggerTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 01:01:17,928 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 01:01:18,246 INFO [main] c.s.c.LoggerTest [StartupInfoLogger.java:61] Started LoggerTest in 2.294 seconds (JVM running for 3.244)
+2021-08-22 01:01:18,422 INFO [main] c.s.c.LoggerTest [LoggerTest.java:19] info log
