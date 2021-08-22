@@ -3,3 +3,35 @@
 2021-08-22 01:01:17,928 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
 2021-08-22 01:01:18,246 INFO [main] c.s.c.LoggerTest [StartupInfoLogger.java:61] Started LoggerTest in 2.294 seconds (JVM running for 3.244)
 2021-08-22 01:01:18,422 INFO [main] c.s.c.LoggerTest [LoggerTest.java:19] info log
+2021-08-22 14:37:24,095 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:55] Starting MailTest using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 19808 (started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 14:37:24,095 INFO [main] c.s.c.MailTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 14:37:25,720 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 14:37:26,017 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 2.314 seconds (JVM running for 3.386)
+2021-08-22 14:39:04,715 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:55] Starting MailTest using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 4540 (started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 14:39:04,715 INFO [main] c.s.c.MailTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 14:39:06,152 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 14:39:06,433 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 2.062 seconds (JVM running for 2.99)
+2021-08-22 14:39:50,397 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:55] Starting MailTest using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 22124 (started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 14:39:50,397 INFO [main] c.s.c.MailTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 14:39:52,210 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 14:39:52,569 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 2.545 seconds (JVM running for 4.04)
+2021-08-22 14:47:29,165 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:55] Starting MailTest using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 6208 (started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 14:47:29,165 INFO [main] c.s.c.MailTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 14:47:30,728 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 14:47:31,024 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 2.172 seconds (JVM running for 3.288)
+2021-08-22 14:48:28,499 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:55] Starting MailTest using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 22912 (started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 14:48:28,501 INFO [main] c.s.c.MailTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 14:48:30,100 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 14:48:30,385 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 2.258 seconds (JVM running for 3.332)
+2021-08-22 15:04:11,462 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:55] Starting MailTest using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 8956 (started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 15:04:11,462 INFO [main] c.s.c.MailTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 15:04:12,947 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 15:04:13,212 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 2.067 seconds (JVM running for 2.969)
+2021-08-22 15:13:32,154 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:55] Starting MailTest using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 14092 (started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 15:13:32,154 INFO [main] c.s.c.MailTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 15:13:33,638 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 15:13:33,888 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 2.059 seconds (JVM running for 2.959)
+2021-08-22 15:46:55,367 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:55] Starting MailTest using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 4216 (started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 15:46:55,370 INFO [main] c.s.c.MailTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 15:46:56,929 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 15:46:57,202 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 2.161 seconds (JVM running for 3.197)
