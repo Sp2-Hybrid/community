@@ -31,4 +31,6 @@ public interface LoginTicketMapper {
             "</script>"
     })
     int updateStatus(String ticket, int status);
+
+
 }
