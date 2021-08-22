@@ -35,3 +35,195 @@
 2021-08-22 15:46:55,370 INFO [main] c.s.c.MailTest [SpringApplication.java:659] No active profile set, falling back to default profiles: default
 2021-08-22 15:46:56,929 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
 2021-08-22 15:46:57,202 INFO [main] c.s.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 2.161 seconds (JVM running for 3.197)
+2021-08-22 16:06:17,848 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 1152 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 16:06:17,851 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 16:06:18,781 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 16:06:18,791 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:06:18,792 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 16:06:18,792 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 16:06:18,869 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 16:06:18,870 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 969 ms
+2021-08-22 16:06:19,315 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 16:06:19,503 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:06:19,521 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 16:06:19,531 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 2.202 seconds (JVM running for 3.123)
+2021-08-22 16:06:33,428 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 16:06:33,428 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 16:06:33,429 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2021-08-22 16:06:33,486 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 16:06:33,649 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-08-22 16:07:09,757 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-08-22 16:07:09,764 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-08-22 16:07:13,519 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 2136 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 16:07:13,522 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 16:07:14,247 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 16:07:14,253 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:07:14,254 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 16:07:14,254 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 16:07:14,312 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 16:07:14,312 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 748 ms
+2021-08-22 16:07:14,689 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 16:07:14,869 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:07:14,882 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 16:07:14,890 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.83 seconds (JVM running for 2.501)
+2021-08-22 16:09:29,016 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 24032 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 16:09:29,018 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 16:09:29,803 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 16:09:29,809 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:09:29,810 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 16:09:29,810 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 16:09:29,871 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 16:09:29,872 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 812 ms
+2021-08-22 16:09:30,177 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 16:09:30,298 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:09:30,309 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 16:09:30,316 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.716 seconds (JVM running for 2.343)
+2021-08-22 16:09:32,312 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 16:09:32,312 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 16:09:32,313 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2021-08-22 16:09:32,353 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 16:09:32,480 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-08-22 16:50:59,090 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 3136 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 16:50:59,092 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 16:50:59,819 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 16:50:59,825 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:50:59,826 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 16:50:59,826 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 16:50:59,882 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 16:50:59,883 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 760 ms
+2021-08-22 16:51:00,204 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 16:51:00,326 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:51:00,337 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 16:51:00,344 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.623 seconds (JVM running for 2.224)
+2021-08-22 16:51:44,351 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 16:51:44,351 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 16:51:44,352 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2021-08-22 16:53:27,015 INFO [http-nio-8080-exec-4] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 16:53:27,149 INFO [http-nio-8080-exec-4] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-08-22 16:53:44,228 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 19004 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 16:53:44,231 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 16:53:45,119 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 16:53:45,127 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:53:45,128 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 16:53:45,128 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 16:53:45,200 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 16:53:45,200 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 926 ms
+2021-08-22 16:53:45,599 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 16:53:45,728 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:53:45,741 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 16:53:45,749 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 2.01 seconds (JVM running for 2.797)
+2021-08-22 16:53:50,032 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 16:53:50,033 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 16:53:50,033 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2021-08-22 16:53:50,077 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 16:53:50,231 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-08-22 16:58:17,741 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-08-22 16:58:17,749 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-08-22 16:58:20,564 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 22416 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 16:58:20,567 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 16:58:21,390 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 16:58:21,397 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:58:21,397 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 16:58:21,398 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 16:58:21,466 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 16:58:21,467 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 862 ms
+2021-08-22 16:58:21,881 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 16:58:22,010 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 16:58:22,024 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 16:58:22,032 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.994 seconds (JVM running for 2.895)
+2021-08-22 16:58:29,902 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 16:58:29,903 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 16:58:29,904 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2021-08-22 16:58:42,679 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 16:58:43,703 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-08-22 16:58:56,155 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-08-22 16:58:56,166 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-08-22 17:00:20,660 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 5008 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 17:00:20,662 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 17:00:21,758 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 17:00:21,765 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:00:21,766 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 17:00:21,766 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 17:00:21,841 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 17:00:21,841 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 1120 ms
+2021-08-22 17:00:22,358 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 17:00:22,520 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:00:22,543 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 17:00:22,552 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 2.444 seconds (JVM running for 3.232)
+2021-08-22 17:00:23,988 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 17:00:23,988 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 17:00:23,989 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2021-08-22 17:00:24,032 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 17:00:24,176 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-08-22 17:00:43,863 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-08-22 17:00:43,875 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-08-22 17:00:46,573 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 16168 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 17:00:46,575 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 17:00:47,278 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 17:00:47,284 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:00:47,285 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 17:00:47,285 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 17:00:47,342 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 17:00:47,343 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 736 ms
+2021-08-22 17:00:47,657 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 17:00:47,769 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:00:47,779 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 17:00:47,786 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.611 seconds (JVM running for 2.29)
+2021-08-22 17:00:51,208 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 17:00:51,208 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 17:00:51,209 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2021-08-22 17:00:51,246 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 17:00:51,364 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-08-22 17:01:21,892 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 14720 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 17:01:21,896 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 17:01:22,813 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 17:01:22,822 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:01:22,823 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 17:01:22,823 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 17:01:22,897 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 17:01:22,898 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 963 ms
+2021-08-22 17:01:23,385 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 17:01:23,521 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:01:23,535 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 17:01:23,545 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 2.178 seconds (JVM running for 2.98)
+2021-08-22 17:01:38,059 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 17:01:38,060 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 17:01:38,061 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2021-08-22 17:01:38,111 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 17:01:38,270 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-08-22 17:41:14,006 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-08-22 17:41:14,009 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-08-22 17:47:54,592 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 19472 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 17:47:54,594 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 17:47:55,323 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 17:47:55,331 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:47:55,331 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 17:47:55,332 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 17:47:55,396 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 17:47:55,396 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 770 ms
+2021-08-22 17:47:55,759 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 17:47:55,894 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:47:55,908 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 17:47:55,916 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.705 seconds (JVM running for 2.36)
+2021-08-22 17:48:00,794 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 17:48:00,794 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 17:48:00,795 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2021-08-22 17:49:00,641 INFO [http-nio-8080-exec-2] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 17:49:00,774 INFO [http-nio-8080-exec-2] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-08-22 17:57:32,024 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 1.8.0_291 on DESKTOP-KLE4FCH with PID 21444 (C:\Users\songpeng\Downloads\community\target\classes started by songpeng in C:\Users\songpeng\Downloads\community)
+2021-08-22 17:57:32,026 INFO [main] c.s.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2021-08-22 17:57:32,801 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-08-22 17:57:32,807 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:57:32,808 INFO [main] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-08-22 17:57:32,808 INFO [main] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-08-22 17:57:32,870 INFO [main] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-08-22 17:57:32,870 INFO [main] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 813 ms
+2021-08-22 17:57:33,196 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-08-22 17:57:33,323 INFO [main] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-08-22 17:57:33,335 INFO [main] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-08-22 17:57:33,342 INFO [main] c.s.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 1.718 seconds (JVM running for 2.377)
+2021-08-22 17:57:44,319 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-22 17:57:44,319 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2021-08-22 17:57:44,320 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2021-08-22 17:57:44,350 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-08-22 17:57:44,478 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
