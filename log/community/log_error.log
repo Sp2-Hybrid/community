@@ -499,3 +499,6 @@ org.springframework.expression.spel.SpelEvaluationException: EL1007E: Property o
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
 	at java.lang.Thread.run(Thread.java:748)
+2021-08-24 03:01:48,989 ERROR [main] c.s.c.LoggerTest [LoggerTest.java:21] error log
+2021-08-24 03:02:51,467 ERROR [main] c.s.c.LoggerTest [LoggerTest.java:21] error log
+2021-08-24 03:03:56,496 ERROR [main] c.s.c.LoggerTest [LoggerTest.java:21] error log
