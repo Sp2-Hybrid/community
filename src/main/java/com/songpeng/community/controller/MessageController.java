@@ -50,8 +50,10 @@ public class MessageController {
                 map.put("letterCount", messageService.findLetterCount(message.getConversationId()));
                 map.put("unreadCount", messageService.findLetterUnreadCount(user.getId(), message.getConversationId()));
                 int targetId = user.getId() == message.getFromId() ? message.getToId() : message.getFromId();
+                if(targetId==0){
+                    break;
+                }
                 map.put("target", userService.findUserById(targetId));
-
                 conversations.add(map);
             }
         }
