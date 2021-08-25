@@ -2,11 +2,13 @@ package com.songpeng.community.dao;
 
 import com.songpeng.community.entity.LoginTicket;
 import org.apache.ibatis.annotations.*;
+import org.springframework.boot.convert.DurationFormat;
 
 /**
  * @author songpeng
  */
 @Mapper
+@Deprecated
 public interface LoginTicketMapper {
 
     @Insert({
