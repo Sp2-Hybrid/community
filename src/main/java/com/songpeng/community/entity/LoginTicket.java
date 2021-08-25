@@ -7,8 +7,8 @@ import java.util.Date;
 /**
  * @author songpeng
  */
-@Component
 public class LoginTicket {
+
     private int id;
     private int userId;
     private String ticket;
@@ -66,3 +66,4 @@ public class LoginTicket {
                 '}';
     }
 }
+

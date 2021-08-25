@@ -32,5 +32,4 @@ public interface LoginTicketMapper {
     })
     int updateStatus(String ticket, int status);
 
-
 }

@@ -6,13 +6,14 @@ import java.util.Date;
  * @author songpeng
  */
 public class Comment {
+
     private int id;
     private int userId;
     private int entityType;
-    private int targetId;
     private int entityId;
+    private int targetId;
     private String content;
-    private int Status;
+    private int status;
     private Date createTime;
 
     public int getId() {
@@ -39,20 +40,20 @@ public class Comment {
         this.entityType = entityType;
     }
 
-    public int getTargetId() {
-        return targetId;
-    }
-
-    public void setTargetId(int targetId) {
-        this.targetId = targetId;
-    }
-
     public int getEntityId() {
         return entityId;
     }
 
     public void setEntityId(int entityId) {
         this.entityId = entityId;
+    }
+
+    public int getTargetId() {
+        return targetId;
+    }
+
+    public void setTargetId(int targetId) {
+        this.targetId = targetId;
     }
 
     public String getContent() {
@@ -64,11 +65,11 @@ public class Comment {
     }
 
     public int getStatus() {
-        return Status;
+        return status;
     }
 
     public void setStatus(int status) {
-        Status = status;
+        this.status = status;
     }
 
     public Date getCreateTime() {
@@ -85,10 +86,10 @@ public class Comment {
                 "id=" + id +
                 ", userId=" + userId +
                 ", entityType=" + entityType +
-                ", targetId=" + targetId +
                 ", entityId=" + entityId +
+                ", targetId=" + targetId +
                 ", content='" + content + '\'' +
-                ", Status=" + Status +
+                ", status=" + status +
                 ", createTime=" + createTime +
                 '}';
     }

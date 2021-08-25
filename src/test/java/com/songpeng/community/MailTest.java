@@ -23,7 +23,7 @@ public class MailTest {
         mailClient.sendMail("17710695046@163.com", "TEST", "hello world, songpeng");
     }
 
-    @Test
+    // @Test
     public void testHtmlMail(){
         Context context = new Context();
         context.setVariable("username", "sunday");

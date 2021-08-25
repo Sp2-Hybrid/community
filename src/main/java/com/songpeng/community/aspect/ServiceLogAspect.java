@@ -23,7 +23,7 @@ public class ServiceLogAspect {
 
     private static final Logger logger = LoggerFactory.getLogger(ServiceLogAspect.class);
 
-    @Pointcut("execution(* com.nowcoder.community.service.*.*(..))")
+    @Pointcut("execution(* com.songpeng.community.service.*.*(..))")
     public void pointcut() {
 
     }

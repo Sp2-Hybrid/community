@@ -6,6 +6,7 @@ import java.util.Date;
  * @author songpeng
  */
 public class Message {
+
     private int id;
     private int fromId;
     private int toId;
@@ -26,8 +27,8 @@ public class Message {
         return fromId;
     }
 
-    public void setFromId(int formId) {
-        this.fromId = formId;
+    public void setFromId(int fromId) {
+        this.fromId = fromId;
     }
 
     public int getToId() {
@@ -74,7 +75,7 @@ public class Message {
     public String toString() {
         return "Message{" +
                 "id=" + id +
-                ", formId=" + fromId +
+                ", fromId=" + fromId +
                 ", toId=" + toId +
                 ", conversationId='" + conversationId + '\'' +
                 ", content='" + content + '\'' +
