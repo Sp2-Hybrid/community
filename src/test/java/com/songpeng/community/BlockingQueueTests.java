@@ -8,13 +8,13 @@ import java.util.concurrent.BlockingQueue;
 
 
 public class BlockingQueueTests {
-    public static void main(String[] args) {
-        BlockingQueue<Integer> queue = new ArrayBlockingQueue<>(10);
-        new Thread(new Producer(queue)).start();
-        new Thread(new Consumer(queue)).start();
-        new Thread(new Consumer(queue)).start();
-        new Thread(new Consumer(queue)).start();
-    }
+//    public static void main(String[] args) {
+//        BlockingQueue<Integer> queue = new ArrayBlockingQueue<>(10);
+//        new Thread(new Producer(queue)).start();
+//        new Thread(new Consumer(queue)).start();
+//        new Thread(new Consumer(queue)).start();
+//        new Thread(new Consumer(queue)).start();
+//    }
 }
 
 class Producer implements Runnable{

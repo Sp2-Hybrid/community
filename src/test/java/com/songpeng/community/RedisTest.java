@@ -18,7 +18,7 @@ public class RedisTest {
     @Autowired
     private RedisTemplate redisTemplate;
 
-    @Test
+    // @Test
     public void testString(){
         String redisKey = "test:count";
         // 添加键值对
@@ -29,7 +29,7 @@ public class RedisTest {
         System.out.println(redisTemplate.opsForValue().increment(redisKey));
     }
 
-    @Test
+    // @Test
     public void testHashs(){
         String redisKey = "test:user";
         redisTemplate.opsForHash().put(redisKey, "id", 1);
@@ -40,7 +40,7 @@ public class RedisTest {
 
     }
 
-    @Test
+    // @Test
     public void testLists(){
         String redisKey = "test:ids";
 
@@ -57,7 +57,7 @@ public class RedisTest {
         System.out.println(redisTemplate.opsForList().leftPop(redisKey));
     }
 
-    @Test
+    // @Test
     public void testSets(){
         String redisKey = "test:teachers";
 
@@ -68,7 +68,7 @@ public class RedisTest {
         System.out.println(redisTemplate.opsForSet().members(redisKey));
     }
 
-    @Test
+    // @Test
     public void testSortedSets() {
         String redisKey = "test:students";
 
@@ -84,7 +84,7 @@ public class RedisTest {
         System.out.println(redisTemplate.opsForZSet().reverseRange(redisKey, 0, 2));
     }
 
-    @Test
+    // @Test
     public void testKeys() {
         redisTemplate.delete("test:user");
 
@@ -94,7 +94,7 @@ public class RedisTest {
     }
 
     // 批量发送命令,节约网络开销.
-    @Test
+    // @Test
     public void testBoundOperations() {
         String redisKey = "test:count";
         BoundValueOperations operations = redisTemplate.boundValueOps(redisKey);
@@ -107,7 +107,7 @@ public class RedisTest {
     }
 
     // 编程式事务
-    @Test
+    // @Test
     public void testTransaction() {
         Object result = redisTemplate.execute(new SessionCallback() {
             @Override

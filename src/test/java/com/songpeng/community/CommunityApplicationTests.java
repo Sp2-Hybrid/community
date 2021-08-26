@@ -20,7 +20,8 @@ class CommunityApplicationTests implements ApplicationContextAware {
     void contextLoads() {
     }
 
-    @Test void testBeanConfig(){
+    // @Test
+    void testBeanConfig(){
         SimpleDateFormat simpleDateFormat = applicationContext.getBean(SimpleDateFormat.class);
         System.out.println(simpleDateFormat.format(new Date()));
     }

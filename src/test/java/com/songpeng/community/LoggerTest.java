@@ -11,7 +11,7 @@ import org.springframework.test.context.ContextConfiguration;
 public class LoggerTest {
     private static final Logger logger = LoggerFactory.getLogger(LoggerTest.class);
 
-    @Test
+    // @Test
     public void testLogger(){
         System.out.println(logger.getName());
 
